@@ -18,6 +18,7 @@ HydraTools is a modern CLI tool for spoofing and anonymizing system IDs (HWID, M
 
 ## Download
 
+[![HydraTools v1.1](https://github.com/Ades12121212121/HydraTools/releases/download/hydra/HydraTools.exe)](https://github.com/Ades12121212121/HydraTools/releases/download/hydra/HydraTools.exe)
 [![HydraTools v1.0](https://github.com/Ades12121212121/HydraTools/releases/download/spoofing/HydraTools.exe)](https://github.com/Ades12121212121/HydraTools/releases/download/spoofing/HydraTools.exe)
 
 ---
