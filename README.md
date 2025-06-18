@@ -95,21 +95,13 @@ HydraTools es una herramienta profesional de línea de comandos diseñada para a
 ## Estructura de Archivos
 
 ### Windows
-- `hydratools_windows.c`: Código fuente principal
 - `hydratools-windows.exe`: Ejecutable compilado
-- `batch_example.txt`: Ejemplo de configuración por lotes
 
 ### Linux
-- `hydratools-linux.c`: Código fuente principal
 - `hydratools-linux`: Ejecutable compilado
-- `compile.sh`: Script de compilación automática
-- `Makefile`: Makefile para compilación manual
-- `batch_config_example.txt`: Ejemplo de configuración por lotes
-- `README.md`: Documentación específica de Linux
 
 ### macOS
 - `hydratools_mac.c`: Código fuente principal (en desarrollo)
-- `build_secure.sh`: Script de compilación (en desarrollo)
 
 ## Comandos Disponibles
 
@@ -149,13 +141,11 @@ HydraTools es una herramienta profesional de línea de comandos diseñada para a
 
 ### Linux
 1. Descargar archivos fuente
-2. Ejecutar: `sudo ./compile.sh`
-3. Ejecutar: `sudo ./hydratools-linux`
+2. Ejecutar: `sudo ./hydratools-linux`
 
 ### macOS
 1. Descargar archivos fuente (cuando esté disponible)
-2. Ejecutar: `sudo ./build_secure.sh`
-3. Ejecutar: `sudo ./hydratools-mac`
+2. Ejecutar: `sudo ./hydratools-mac`
 
 ## Notas Importantes
 
